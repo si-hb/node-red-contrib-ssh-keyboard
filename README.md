@@ -6,9 +6,9 @@
 [![license](https://img.shields.io/badge/license-Apache--2.0-yellowgreen)](https://apache.org/licenses/LICENSE-2.0)
 [![donate](https://img.shields.io/badge/donate-wango-blue)](https://www.wango.org/donate.aspx)
 
-# node-red-contrib-ssh-v3
+# node-red-contrib-ssh-keyboard
 
-ssh connection remote host
+ssh connection remote host using interactive keyboard authentication
 
 
 # installation
@@ -40,3 +40,4 @@ send input msg.payload = "string"
 # credits
 
 source from [node-red-contrib-ssh](https://github.com/yroffin/node-red-contrib-ssh)
+forked from [node-red-contrib-ssh-v3](https://github.com/william89731/node-red-contrib-ssh-v3)
